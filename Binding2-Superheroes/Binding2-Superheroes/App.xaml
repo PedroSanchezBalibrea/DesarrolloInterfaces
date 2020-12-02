@@ -1,0 +1,27 @@
+﻿<Application x:Class="Binding2_Superheroes.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Binding2_Superheroes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Image" x:Key="iconoHeroe">
+            <Setter Property="Margin" Value="5"></Setter>
+        </Style>
+        <Style TargetType="Image" x:Key="flechas">
+            <Setter Property="Width" Value="25"></Setter>
+            <Setter Property="Source" Value="arrow.png"></Setter>
+        </Style>
+        <Style TargetType="Image" x:Key="info">
+            <Setter Property="Width" Value="15"></Setter>
+            <Setter Property="Source" Value="info.png"></Setter>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="5,0,5,0"></Setter>
+            <Setter Property="DockPanel.Dock" Value="Top"></Setter>
+        </Style>
+        <Style TargetType="StackPanel" x:Key="checkboxradios">
+            <Setter Property="Orientation" Value="Vertical"></Setter>
+            <Setter Property="Margin" Value="5"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>

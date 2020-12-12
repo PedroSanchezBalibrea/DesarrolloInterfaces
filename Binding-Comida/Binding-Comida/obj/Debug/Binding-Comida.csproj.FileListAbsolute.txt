@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\bin\Debug\Binding-Comida.exe.config
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\bin\Debug\Binding-Comida.exe
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\bin\Debug\Binding-Comida.pdb
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\MainWindow.g.cs
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\App.g.cs
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida_MarkupCompile.cache
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida_MarkupCompile.lref
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\MainWindow.baml
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida.g.resources
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding_Comida.Properties.Resources.resources
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida.exe
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\Binding-Comida.pdb
+C:\Users\pedro\source\repos\Binding-Comida\Binding-Comida\obj\Debug\App.baml
